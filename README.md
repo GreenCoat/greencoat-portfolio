@@ -1,1 +1,1 @@
-# greencoat-portfolio
+Portfolio site by Nick Cunningham, created using React.
