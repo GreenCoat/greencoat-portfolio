@@ -1,17 +1,47 @@
 .app {
-	width: 80%;
+	width: 800px;
 	margin: 10px auto;
 	border: 1px solid black;
 }
 
 .bio {
+	text-align: center;
+}
 
+.bio img {
+	width: 300px;
+	border: 1px solid gray;
+	padding: 2px;
+	margin: 10px auto;
+}
+
+.row {
+	display: flex;
+}
+
+.left-col {
+	flex: 40%;
+	border: 1px solid red;
+}
+
+.right-col {
+	flex: 60%;
+	border: 1px solid blue;
 }
 
 .links {
+	width: 90%;
+	margin: 10px auto;
+	text-align: center;
+	border: 1px solid black;
+}
 
+.links img {
+	margin: 5px;
+	height: 80px;
+	width: 80px;
 }
 
 .portfolio {
-	
+
 }
